@@ -9,3 +9,5 @@
 <a href="https://docs.google.com/spreadsheets/d/1aPtAQdCD4yZrPvd8r-Ns4VM8I5a4nc9tTvNiEc5ZL3E/edit?usp=share_link" target="_blank">Link to "Check_lists_Header" (Prod version)</a>
 
 <a href="https://docs.google.com/spreadsheets/d/1R0owx0tFiOaamoUkKbja_hkANQXIjjv8v0JZKQfyUYc/edit?usp=share_link" target="_blank">Link to "Regression_Check_lists_About us" (Prod version)</a>
+
+<a href="https://docs.google.com/spreadsheets/d/1V_bodpwH152tKtzLbMr3zNKoPI1faiLAAED0eZ9Sub0/edit?usp=share_link" target="_blank">Link to "Bug Reports" (Prod version)</a>
